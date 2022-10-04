@@ -1,0 +1,56 @@
+
+head {background-color:red;}
+ h1 {color:green; 
+    text-align:center;}
+ h3 {color:red}
+  p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+   }
+   *{background-color:blanchedalmond}
+  .center{margin-left: 300px;}
+  .center2{margin-top: 50px;}
+ div{font-size: larger;}
+ h3 {outline-style:double; outline-color: red; width: 400px; padding:10px;border-style:inset; background-color: aqua; margin top: 50px;
+  margin right:200px margin bottom: 200px }
+
+  ul {line-height: 0.8cm; font-family: cursive;}
+   .eq1 {float:right;}
+  ol {font-family: cursive;}
+ .equipment {
+    
+    width: 300px;
+    border: 15px solid rgb(98, 98, 239);
+    padding: 50px;
+    margin: 20px;
+    
+  }
+
+  .ingredients {
+  width: 400px;
+    border: 15px solid rgb(53, 53, 238);
+    padding: 50px;
+    margin: 20px;
+    
+  }
+  
+
+ .instructions {width: 800px;
+  border: 15px solid rgb(13, 13, 232);
+  padding: 50px;
+  margin: 20px;
+ }
+
+    .lets {color:brown;text-decoration-line:underline;
+    text-decoration-style: double ;}
+
+    .video {box-decoration-break: inherit; text-align: left; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: larger;}
+     a:link {color: rgb(232, 10, 10); font-size: larger;
+      padding: 14px 25px;
+      margin:auto;
+      text-decoration: none;
+      display: inline-block;}
+     a:hover {color: green;}
+    .feedback {width:200; align:center 
+      padding:50px 
+      margin:10px}
